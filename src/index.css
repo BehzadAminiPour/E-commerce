@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&family=Griffy&family=Quicksand:wght@300;400;500;600&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@font-face {
+  font-family: iransans;
+  src: url(./fonts/iransans.ttf);
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: iransans;
+  line-height: 1.8;
+}
